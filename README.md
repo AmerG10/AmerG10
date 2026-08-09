@@ -21,7 +21,9 @@ Kanban Board Management System
 A robust desktop application for task and workflow management, built with a strict multi-tier architecture ensuring solid data persistence and separation of concerns.
 Technologies used: C#, .NET, WPF (MVVM), SQLite.
 ### Project 2
-Short description + technologies used
+Dungeons & Dragons OOP Game Engine
+A 2D Java-based RPG engine featuring dynamic combat and polymorphic AI. Built with clean architecture and strict UI/logic decoupling using the Visitor and Observer design patterns.
+Technologies used: Java, OOP, SOLID, Design Patterns (Visitor, Observer).
 
 ## 🎯 Currently Learning
 
