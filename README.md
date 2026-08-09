@@ -17,8 +17,9 @@
 ## 📌 Featured Projects
 
 ### Project 1
-Short description + technologies used
-
+Kanban Board Management System
+A robust desktop application for task and workflow management, built with a strict multi-tier architecture ensuring solid data persistence and separation of concerns.
+Technologies used: C#, .NET, WPF (MVVM), SQLite.
 ### Project 2
 Short description + technologies used
 
