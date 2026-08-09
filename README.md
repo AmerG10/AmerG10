@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Amer 👋
 
-<!--
-**AmerG10/AmerG10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student
+💻 Interested in Software Development & Cybersecurity
+🚀 Building projects and improving my problem-solving skills
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C / C++
+- C#
+- Java
+- Python
+- SQL
+- Git & GitHub
+- HTML / CSS
+
+## 📌 Featured Projects
+
+### Project 1
+Short description + technologies used
+
+### Project 2
+Short description + technologies used
+
+## 🎯 Currently Learning
+
+- Data Structures & Algorithms
+- Software Engineering
+- Cybersecurity
+- System Design
+
+## 📫 Contact
+
+LinkedIn | GitHub | Email
