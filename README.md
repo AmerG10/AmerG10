@@ -24,6 +24,9 @@ Technologies used: C#, .NET, WPF (MVVM), SQLite.
 Dungeons & Dragons OOP Game Engine
 A 2D Java-based RPG engine featuring dynamic combat and polymorphic AI. Built with clean architecture and strict UI/logic decoupling using the Visitor and Observer design patterns.
 Technologies used: Java, OOP, SOLID, Design Patterns (Visitor, Observer).
+### Project 2
+Polynomial Calculator Engine
+A robust object-oriented algebraic expression engine implemented in pure Java, supporting multi-type scalar arithmetic (Integer, Rational, Real) and high-performance polynomial operations including addition, multiplication, evaluation, and differentiation. Technologies used: Java, OOP, Polymorphism, Factory Method Pattern.
 
 ## 🎯 Currently Learning
 
